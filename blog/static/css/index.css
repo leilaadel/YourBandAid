@@ -38,7 +38,7 @@ Green: #009B72
 
 html{
   padding: 0;
-  margin-left: 0;
+  margin: -8px;
   height: auto;
   width: auto;
 }
